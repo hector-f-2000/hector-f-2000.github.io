@@ -1,3 +1,3 @@
-(function(){
-  alert('Cargado.')
-}())
+window.onload = function() {
+    alert('Page is loaded');
+};
