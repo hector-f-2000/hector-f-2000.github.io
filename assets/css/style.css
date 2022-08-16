@@ -972,7 +972,7 @@ a:hover {
 
 .work-img img {
   transition: all 1s;
-  
+  height:100%;
 }
 
 .work-content {
