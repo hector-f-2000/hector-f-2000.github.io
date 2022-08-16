@@ -963,6 +963,7 @@ a:hover {
 .work-img {
   display: block;
   overflow: hidden;
+  max-height:220px;
 }
 
 .work-img img {
