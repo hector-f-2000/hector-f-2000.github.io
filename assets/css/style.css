@@ -967,6 +967,7 @@ a:hover {
   min-height:230px;
   display: flex;
   align-items: center;
+  justify-content:center;
 }
 
 .work-img img {
